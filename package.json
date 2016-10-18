@@ -1,0 +1,17 @@
+{
+  "name": "react-native-ntshare",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taixiang/react-native-NTShare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taixiang/react-native-NTShare/issues"
+  },
+  "homepage": "https://github.com/taixiang/react-native-NTShare#readme"
+}
