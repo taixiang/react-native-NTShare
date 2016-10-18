@@ -18,7 +18,7 @@ Android 添加:
     `ShareSDK.initSDK(this);`  
     `node_modules里react-native-ntshare 文件夹android-src-main-assets里 ShareSDK.xml 里面修改sharesdk后台注册的应用的appkey，以及微信开放平台的    AppId、AppSecret`  
     
-js调用
+js调用  
   `const shareModule = NativeModules.NtShareModule;` 
   `platformShare 1代表微信好友，2代表微信朋友圈`  
   `微信分享链接 返回true代表成功`  
